@@ -1,6 +1,5 @@
 {
     "name": "HBridgeController",
-    "version": "1.0.0",
     "description": "A simplified library to controll a h-bridge",
     "keywords": "HBridgeController, HBridgeMotor",
     "repository":
