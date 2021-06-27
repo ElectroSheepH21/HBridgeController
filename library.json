@@ -12,11 +12,7 @@
     [
       {
         "name": "ElectroSheepH21",
-        "email": "",
-        "url": "",
         "maintainer": true
       }
     ],
-    "frameworks": "arduino",
-    "platforms": "*"
   }
